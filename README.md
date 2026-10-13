@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=480&lines=%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B9%88+GitHub+%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%21;%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99+%F0%9F%8C%B1;%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B9%8B%E0%B8%87+%E0%B9%86+%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99+%F0%9F%9A%80" alt="ข้อความต้อนรับ" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THEBAOxCucumber&style=flat-square&color=4ADE80&label=ผู้เข้าชม" alt="จำนวนผู้เข้าชม" />
-  <a href="https://github.com/THEBAOxCucumber?tab=followers">
-    <img src="https://img.shields.io/github/followers/THEBAOxCucumber?style=flat-square&label=ผู้ติดตาม&color=4ADE80" alt="ผู้ติดตาม" />
-  </a>
-</p>
 
 ---
 
