@@ -1,34 +1,34 @@
-<h1 align="center">Hi there, I'm THEBAOxCucumber 🥒👋</h1>
+<h1 align="center">Hello! Piriyaporn Yamsamruen (Mine) 🥒👋</h1>
 <p align="center">
-  <b>Developer</b> · Based in Thailand 🇹🇭<br/>
-  I like building things, breaking them, and learning along the way.
+  <b>นักพัฒนา</b> · จากประเทศไทย 🇹🇭<br/>
+  ชอบสร้างสิ่งใหม่ ๆ ลองผิดลองถูก และเรียนรู้ไปเรื่อย ๆ
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub!;Always+learning+something+new+%F0%9F%8C%B1;Let's+build+something+cool+together+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=480&lines=%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B9%88+GitHub+%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%21;%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99+%F0%9F%8C%B1;%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B9%8B%E0%B8%87+%E0%B9%86+%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99+%F0%9F%9A%80" alt="ข้อความต้อนรับ" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THEBAOxCucumber&style=flat-square&color=4ADE80" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=THEBAOxCucumber&style=flat-square&color=4ADE80&label=ผู้เข้าชม" alt="จำนวนผู้เข้าชม" />
   <a href="https://github.com/THEBAOxCucumber?tab=followers">
-    <img src="https://img.shields.io/github/followers/THEBAOxCucumber?style=flat-square&label=Followers&color=4ADE80" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/THEBAOxCucumber?style=flat-square&label=ผู้ติดตาม&color=4ADE80" alt="ผู้ติดตาม" />
   </a>
 </p>
 
 ---
 
-### 🙋 About Me
+### 🙋 เกี่ยวกับเรา
 
-- 🔭 Currently working on **…**
-- 🌱 Learning **…**
-- 💬 Ask me about **…**
-- ⚡ Fun fact: **…**
+-🎓 ติดตามการศึกษาสาขาเทคโนโลยีข่าวสาร (IT)
+-🏫 มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน 🌿
+-🌱 สนใจเรียนรู้เทคโนโลยีใหม่ ๆ และชอบลองทำโปรเจกต์
+-🤝 ยินดีที่ได้ทำโปรเจกต์และเครดิตให้ทุกคน
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ เครื่องมือและภาษาที่ใช้
 
-<!-- Keep the badges you use, delete the rest -->
+<!-- เก็บไว้เฉพาะ badge ที่ใช้จริง ที่เหลือลบออกได้ -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,21 +41,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 สถิติ GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THEBAOxCucumber&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBAOxCucumber&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THEBAOxCucumber&show_icons=true&hide_border=true&theme=tokyonight" alt="สถิติ GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBAOxCucumber&layout=compact&hide_border=true&theme=tokyonight" alt="ภาษาที่ใช้บ่อย" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=THEBAOxCucumber&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=THEBAOxCucumber&hide_border=true&theme=tokyonight&locale=th" alt="สถิติการ commit ต่อเนื่อง" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEBAOxCucumber&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEBAOxCucumber&theme=tokyo-night&hide_border=true" alt="กราฟการมีส่วนร่วม" />
 </p>
 
 ---
 
-<p align="center"><i>Thanks for visiting! ⭐ Feel free to star any repo you find useful.</i></p>
+<p align="center"><i>ขอบคุณที่แวะมานะ! ⭐ ถ้าชอบ repo ไหนกดดาวให้กันได้เลย</i></p>
